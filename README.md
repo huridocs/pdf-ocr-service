@@ -1,3 +1,19 @@
+# Project Status: Archived
+
+This project is no longer actively maintained. We are focusing our efforts on developing a new and improved version, which can be found in the following repository:
+
+https://github.com/huridocs/pdf-document-layout-analysis
+
+We encourage you to check out the new project, as it offers enhanced features, and an updated codebase.
+
+Thank you for your understanding and continued support!
+
+
+
+# Old readme
+
+
+
 # OCR PDFs
 
 A Docker-powered service for OCRing PDFs
